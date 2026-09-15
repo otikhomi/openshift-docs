@@ -8,3 +8,5 @@
 
 [role="_abstract"]
 In {product-title}, updating provisions a new component with updated software and uses it to replace an existing component that has outdated software.
+
+//TODO: Add bits from modules/rosa-sts-upgrading-a-cluster-with-sts.adoc and https://cloud.redhat.com/experts/rosa/best-practices-recommendations/
